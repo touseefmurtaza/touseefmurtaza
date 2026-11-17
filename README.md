@@ -1,6 +1,6 @@
 ## Hey, I'm Touseef 👋
 
-I'm a software engineer from Lahore. I've been writing software for about eight years, mostly full-stack, and these days most of my time goes into LLM features that have to hold up in production.
+I'm a software engineer from Pakistan. I've been writing software for about eight years, mostly full-stack, and these days most of my time goes into LLM features that have to hold up in production.
 
 Right now I'm at **Jobandtalent**, working on AI features for hiring and payroll: vacancy generators, screening agents, and the monitoring that tells us when they're getting things wrong. Before that I led the Fulfilment team at **Sendoso**, where we broke up the order monolith around Kafka and reworked our Salesforce integrations so they'd stop hitting rate limits.
 
