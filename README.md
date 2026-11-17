@@ -13,7 +13,7 @@ I started out on Ruby on Rails, and a lot of the older repos here are from that 
 - [react-ai-prompt-lab](https://github.com/touseefmurtaza/react-ai-prompt-lab): a scratchpad for comparing and scoring prompts
 - [ai-engineering-playbook](https://github.com/touseefmurtaza/ai-engineering-playbook): notes I keep on shipping AI features without hurting yourself
 
-These are side projects and experiments. Most of my real work lives in private company repos.
+These are early side projects. Right now the first three run on rule-based logic so they're cheap and predictable to work on, and wiring in real model calls is next. Most of my real work lives in private company repos.
 
 **Lately** I've been setting up Claude Code with a handful of sub-agents (architect, reviewer, QA) that work in separate git worktrees, with me approving each step. It's made reviews faster without making them sloppier, and I'm still tuning it.
 
