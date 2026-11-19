@@ -13,7 +13,7 @@ I started out on Ruby on Rails, and a lot of the older repos here are from that 
 - [react-ai-prompt-lab](https://github.com/touseefmurtaza/react-ai-prompt-lab): a scratchpad for comparing and scoring prompts
 - [ai-engineering-playbook](https://github.com/touseefmurtaza/ai-engineering-playbook): notes I keep on shipping AI features without hurting yourself
 
-These are early side projects. The ticket triage one now runs on Claude (bring your own API key). The agent workflow API and the prompt lab still use rule-based logic, and wiring real model calls into them is next. Most of my real work lives in private company repos.
+These are early side projects. The ticket triage app and the workflow API now run on Claude (bring your own API key). The prompt lab still uses rule-based scoring, and that's next. Most of my real work lives in private company repos.
 
 **Lately** I've been setting up Claude Code with a handful of sub-agents (architect, reviewer, QA) that work in separate git worktrees, with me approving each step. It's made reviews faster without making them sloppier, and I'm still tuning it. I've published a version of it as [claude-code-agent-team](https://github.com/touseefmurtaza/claude-code-agent-team) if you want to try it.
 
